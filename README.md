@@ -17,7 +17,8 @@
 <p align="left">
   <a href="https://github.com/ME-CDE/github-readme-streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ME-CDE&show_icons=true&locale=en" alt="ME-CDE" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ME-CDE#version3"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ME-CDE&show_icons=true&locale=en&layout=compact" alt="ME-CDE" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ME-CDE#version3"/> -->
   </a>
 </p>
 
