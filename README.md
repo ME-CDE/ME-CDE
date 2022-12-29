@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a javascript developer
+* 💻 I'm a Frontend developer
 * 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
 
