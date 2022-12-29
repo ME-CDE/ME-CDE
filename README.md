@@ -12,16 +12,6 @@
 * 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
 
-## 📊 My Stat
-
-<p align="left">
-  <a href="https://github.com/ME-CDE/github-readme-streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ME-CDE&show_icons=true&locale=en" alt="ME-CDE" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ME-CDE&show_icons=true&locale=en&layout=compact" alt="ME-CDE" />
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ME-CDE#version3"/> -->
-  </a>
-</p>
-
 
 ## Connect with me:
 
@@ -68,3 +58,13 @@
         </tr>
     </tbody>
 </table>
+
+## 📊 My Stat
+
+<p align="left">
+  <a href="https://github.com/ME-CDE/github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ME-CDE&show_icons=true&locale=en" alt="ME-CDE" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ME-CDE&show_icons=true&locale=en&layout=compact" alt="ME-CDE" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ME-CDE#version3"/> -->
+  </a>
+</p>
