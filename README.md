@@ -10,7 +10,7 @@
 
 * 💻 I'm a Frontend developer
 * 🎓 I'm a Computer Science student
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 🌐 You can see some of my projects on [my portfolio](https://ganwuli.netlify.app)
 
 
 ## Connect with me:
