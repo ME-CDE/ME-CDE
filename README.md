@@ -10,11 +10,7 @@
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 
 </tr>
@@ -47,7 +43,7 @@
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/tailwind/tailwind-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -60,30 +56,6 @@
 </table>
 
 <hr>
-
-## Currently Learning :beginner:
-
-- **Data Science**
-
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
-</tr>
-
-</tbody>
-</table>
-
 - **Web Development**
 <table>
 <tbody>
@@ -106,11 +78,11 @@
 
 <hr>
 
-## Connect with me. :smiley:
+## Connect with me :
 
 <p>
-<a href="https://github.com/ME-CDE"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/godswill-anwuli-7a8b80243/"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-blue?logo=linkedin&style=flat-square"></a>
-<a href="mailto:godswillanwuli@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/godswill_anwuli"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://github.com/ME-CDE"><img src="https://img.shields.io/badge/-ME-CDE-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/godswill-anwuli-7a8b80243/"><img src="https://img.shields.io/badge/-godswill-anwuli-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:godswillanwuli@gmail.com"><img src="https://img.shields.io/badge/-godswillanwuli@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://twitter.com/godswill_anwuli"><img src="https://img.shields.io/badge/-godswill_anwuli-blue?logo=twitter&style=flat-square"/></a>
 </p>
